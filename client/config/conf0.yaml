@@ -1,0 +1,8 @@
+server_list:
+    - "http://172.17.0.3:5000"
+dest_list:
+    - "fren"
+endpoints:
+    read: "/read"
+    send: "/send"
+    login: "/login"
